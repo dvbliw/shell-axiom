@@ -1,6 +1,6 @@
 [    
     {
-        "command": "python3 bot-scan.py",
+        "command": "python3 bot-scan.py -l domain",
         "ext": "txt"    
     }
 ]
