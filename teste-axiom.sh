@@ -12,9 +12,7 @@ sleep 2
 sudo cp ~/go/bin/* /usr/bin/
 sleep 2
 
-wget https://raw.githubusercontent.com/erickfernandox/testes-payloads/master/bot-config.py
-chmod +x bot-config.py
-cp bot-config.py /usr/bin/
+git clone https://github.com/trickest/resolvers.git
 sleep 2
 
 # Instala o template nuclei
