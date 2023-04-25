@@ -20,7 +20,4 @@ wget https://raw.githubusercontent.com/erickfernandox/nuclei-templates/main/mult
 mv  multiples-swagger-xss-indentify.yaml ~/nuclei-templates/
 sleep 2
 
-wget https://raw.githubusercontent.com/erickfernandox/nuclei-templates/main/time-sqlinjection-uri-finder.yaml
-mv time-sqlinjection-uri-finder.yaml ~/nuclei-templates/
-
 
